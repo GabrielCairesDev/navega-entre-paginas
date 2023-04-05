@@ -1,16 +1,10 @@
-# flutter_application_1
+# Aplicativo de estudos (Navegação entre páginas)
 
-A new Flutter project.
+Projeto Flutter/dart
 
-## Getting Started
+## Sobre o Aplicativo
 
-This project is a starting point for a Flutter application.
+- Este é um projeto criado com o frameork Flutter baseado na linguagem de programação Dart.
+- Para aprender, eu assisti videos do canal https://www.youtube.com/@FlutterCursos do Deivid Willyan, e tive ajuda da comunidade brasileira de Flutter (Fluterando).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Neste app eu utilizo rotas e widgets customizados 
